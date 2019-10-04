@@ -7,8 +7,9 @@
 
 
 class Rueda {
-
-};
+private:
+	float tamanio;
+	float presion;
 
 
 #endif //LAB_7_COMPOSICION_RUEDA_H

@@ -3,3 +3,8 @@
 //
 
 #include "Rueda.h"
+
+Rueda::Rueda(float tam, float pres) {
+	tamanio = tam;
+	presion = pres;
+}

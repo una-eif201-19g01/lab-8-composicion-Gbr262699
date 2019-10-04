@@ -6,9 +6,16 @@
 #define LAB_7_COMPOSICION_PROPIETARIO_H
 
 
+
 class Propietario {
+private:
+	string nombre;
+
+public:
+	Propietario();
+	Propietario(string);
+	string toString();
 
 };
-
 
 #endif //LAB_7_COMPOSICION_PROPIETARIO_H

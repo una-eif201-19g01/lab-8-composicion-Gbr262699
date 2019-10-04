@@ -1,0 +1,3 @@
+C:/Users/Gaston/Documents/UNA 2019/Semetre 2/lab-8-composicion-Gbr262699/out/build/x64-Debug/CMakeFiles/Composicion.dir
+C:/Users/Gaston/Documents/UNA 2019/Semetre 2/lab-8-composicion-Gbr262699/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Gaston/Documents/UNA 2019/Semetre 2/lab-8-composicion-Gbr262699/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

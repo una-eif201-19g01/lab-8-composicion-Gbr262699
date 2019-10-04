@@ -7,8 +7,16 @@
 
 
 class Ventana {
+private:
+	bool polarizada;
+	bool electrica;
+	bool estado;
 
-};
+public:
+	Ventana();
+	Ventana(bool, bool, bool);
+	void abrir();
+	void cerrar();
 
 
 #endif //LAB_7_COMPOSICION_VENTANA_H
